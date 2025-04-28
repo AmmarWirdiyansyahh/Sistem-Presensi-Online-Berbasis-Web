@@ -1,4 +1,4 @@
-Folder;ile yang harus ada;PIC
+Folder;File yang harus ada;PIC
 1. SPK;Dokumen Surat Perjanjian Kerjasama (SPK);PM & QA Tester
 2. Diagram;User Flowchart Diagram + Data Flow Diagram;Frontend & Backend
 3. SOP;SOP penggunaan GitHub;Kamu (DevOps)
