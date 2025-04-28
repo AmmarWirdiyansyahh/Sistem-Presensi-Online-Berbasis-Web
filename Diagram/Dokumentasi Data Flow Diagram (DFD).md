@@ -1,44 +1,37 @@
-Dokumentasi Data Flow Diagram (DFD)
+# Dokumentasi Data Flow Diagram (DFD)
 
 ![DFD](
 https://github.com/AmmarWirdiyansyahh/Sistem-Presensi-Online-Berbasis-Web/blob/main/Diagram/DFD.png)
 
-Entitas Eksternal
+# Entitas Eksternal
 
-Admin
+1. **Admin**:
+2. **Guru**:
 
-Guru
+# Proses
 
-Proses
+- Sistem Presensi Online SMP Semparuk, Sambas
 
-Sistem Presensi Online SMP Semparuk, Sambas
+# Data Store
 
-Data Store
+- Database
 
-Database
+# Penjelasan Alur
 
-Penjelasan Alur
+1. **Admin ↔ Database**:
+   - Mengirim Data: Admin menginput data kelas, mata pelajaran, siswa, dan guru ke dalam sistem.
+   - Input Data: Data yang sudah dikirim akan masuk dan tersimpan ke dalam database.
 
-Admin ↔ Database
+2. **Database ↔ Sistem Presensi**:
+   - Menyinkronkan Database dan Sistem: Sistem presensi online membaca dan mengambil data dari database agar dapat digunakan dalam proses presensi.
 
-Mengirim Data: Admin menginput data kelas, mata pelajaran, siswa, dan guru ke dalam sistem.
+3. **Guru ↔ Sistem Presensi**:
+   - Melakukan Presensi: Guru mengakses sistem untuk melakukan presensi kehadiran.
+   - Info Presensi: Sistem memberikan informasi presensi yang sudah dicatat dan tersimpan.
 
-Input Data: Data yang sudah dikirim akan masuk dan tersimpan ke dalam database.
+4. **Sistem Presensi ↔ Database**:
+   - Menyimpan Data Presensi: Data presensi yang dilakukan oleh guru dikirimkan ke database untuk disimpan.
 
-Database ↔ Sistem Presensi
-
-Menyinkronkan Database dan Sistem: Sistem presensi online membaca dan mengambil data dari database agar dapat digunakan dalam proses presensi.
-
-Guru ↔ Sistem Presensi
-
-Melakukan Presensi: Guru mengakses sistem untuk melakukan presensi kehadiran.
-
-Info Presensi: Sistem memberikan informasi presensi yang sudah dicatat dan tersimpan.
-
-Sistem Presensi ↔ Database
-
-Menyimpan Data Presensi: Data presensi yang dilakukan oleh guru dikirimkan ke database untuk disimpan.
-
-Ringkasan
+# Ringkasan
 
 Diagram ini menggambarkan alur kerja utama dari sistem presensi online di SMP Semparuk, Sambas, melibatkan interaksi antara admin, guru, sistem presensi, dan database. Admin bertugas mengelola data awal, guru bertugas melakukan presensi, sementara sistem bertugas menyinkronkan dan menyimpan semua informasi ke dalam database.
