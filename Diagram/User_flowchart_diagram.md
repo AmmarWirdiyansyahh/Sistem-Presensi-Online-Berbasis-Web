@@ -2,7 +2,8 @@
 
 Flowchart di bawah ini menggambarkan alur proses presensi oleh guru dalam sistem presensi. Setiap langkah menunjukkan tahapan yang harus diikuti serta keputusan yang perlu diambil.  
 
-![User Flowchart]
+![User Flowchart](
+https://github.com/AmmarWirdiyansyahh/Sistem-Presensi-Online-Berbasis-Web/blob/main/Diagram/User_flow_diagram.png)
 
 ## Penjelasan Alur Flowchart  
 
