@@ -7,35 +7,6 @@ Folder;File yang harus ada;PIC
 5. backend;(Nanti file Back-End: Laravel API);Backend
 6. microservices;Modul spesifik, contoh presensi-siswa;Frontend + Backend
 
-  Sistem-Presensi-Online-Berbasis-Web/
-  │
-  ├── frontend/
-  │   ├── README.md
-  │   └── (Folder kode frontend: HTML, CSS, JS, Vue.js, dsb)
-  │
-  ├── backend/
-  │   ├── README.md
-  │   └── (Folder kode backend: PHP Laravel, controller, model, route, dsb)
-  │
-  ├── microservices/
-  │   ├── presensi-siswa/
-  │   │   ├── README.md
-  │   │   └── (Folder service Presensi Siswa spesifik)
-  │
-  ├── SOP/
-  │   └── SOP_GITHUB_TIM.md
-  │
-  ├── SPK/
-  │   └── SPK_SistemPresensiOnline.pdf
-  │
-  ├── Diagram/
-  │   ├── UserFlowchartDiagram.png
-  │   └── DataFlowDiagram.png
-  │
-  ├── CONTRIBUTING.md
-  │
-  └── README.md
-
 ## 📚 Deskripsi
 
 Dokumen ini dibuat untuk membantu seluruh anggota tim yang **belum pernah** menggunakan Git dan GitHub sama sekali.  
