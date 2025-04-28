@@ -1,4 +1,39 @@
 # SOP Lengkap Penggunaan Git dan GitHub untuk Tim
+Folder;File yang harus ada;PIC
+1. SPK;Dokumen Surat Perjanjian Kerjasama (SPK);PM & QA Tester
+2. Diagram;User Flowchart Diagram + Data Flow Diagram;Frontend & Backend
+3. SOP;SOP penggunaan GitHub;Kamu (DevOps)
+4. frontend;(Nanti file Front-End: HTML/CSS/JS);Frontend
+5. backend;(Nanti file Back-End: Laravel API);Backend
+6. microservices;Modul spesifik, contoh presensi-siswa;Frontend + Backend
+Sistem-Presensi-Online-Berbasis-Web/
+│
+├── frontend/
+│   ├── README.md
+│   └── (Folder kode frontend: HTML, CSS, JS, Vue.js, dsb)
+│
+├── backend/
+│   ├── README.md
+│   └── (Folder kode backend: PHP Laravel, controller, model, route, dsb)
+│
+├── microservices/
+│   ├── presensi-siswa/
+│   │   ├── README.md
+│   │   └── (Folder service Presensi Siswa spesifik)
+│
+├── SOP/
+│   └── SOP_GITHUB_TIM.md
+│
+├── SPK/
+│   └── SPK_SistemPresensiOnline.pdf
+│
+├── Diagram/
+│   ├── UserFlowchartDiagram.png
+│   └── DataFlowDiagram.png
+│
+├── CONTRIBUTING.md
+│
+└── README.md
 
 ## 📚 Deskripsi
 
