@@ -127,7 +127,7 @@ git push origin main
 
 ---
 
-# 7. Aturan Commit Wajib Tim (Ditetapkan olehDevOps)
+# 7. Aturan Commit Wajib Tim (Ditetapkan oleh DevOps)
 
 Seluruh commit **WAJIB** menggunakan format berikut:
 
