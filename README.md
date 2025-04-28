@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00D1FF&center=true&width=600&lines=Sistem+Presensi+Online+Berbasis+Web;Real-time+Attendance+Tracking;Built+for+Semparuk+High+School;Microservices+Architecture" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00D1FF&center=true&width=600&lines=Sistem+Presensi+Online+Berbasis+Web;Real-time+Attendance+Tracking;Built+for+Semparuk+High+School" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,7 +16,6 @@
 <p align="center">
   🚀 <strong>Real-Time Attendance System</strong> for schools <br/>
   🏫 Developed for <strong>Semparuk High School</strong> <br/>
-  💻 Microservices based scalable architecture
 </p>
 
 ---
