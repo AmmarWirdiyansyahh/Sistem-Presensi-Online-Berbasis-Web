@@ -1,0 +1,61 @@
+# DFD Untuk Sistem Presensi
+
+DFD di bawah ini menggambarkan alur proses presensi oleh guru dalam sistem presensi.
+
+![DFD](
+https://github.com/AmmarWirdiyansyahh/Sistem-Presensi-Online-Berbasis-Web/blob/main/Diagram/DFD.png)
+
+## Penjelasan DFD 
+
+1. Aktor/Entitas Eksternal:
+
+Admin
+
+Bertugas untuk input data ke dalam sistem, meliputi:
+
+Data kelas
+
+Data mata pelajaran
+
+Data siswa
+
+Data guru
+
+Admin mengirim data ke Database dan sistem menarik data dari Database ke sistem utama untuk disinkronisasi.
+
+Guru
+
+Guru menggunakan sistem untuk melakukan presensi (absen).
+
+Guru menerima informasi presensi dari sistem.
+
+2. Proses/Komponen Utama:
+
+Database
+
+Menyimpan seluruh data master (kelas, pelajaran, siswa, guru) dan juga data hasil presensi.
+
+Bertugas menyimpan data presensi yang dihasilkan dari sistem.
+
+Mensinkronkan data dengan Sistem Presensi Online agar data yang ditampilkan di sistem selalu up-to-date.
+
+Sistem Presensi Online SMP Semparuk, Sambas
+
+Sistem ini menjadi penghubung antara guru dengan database.
+
+Guru melakukan presensi melalui sistem ini.
+
+Sistem ini juga memberikan informasi tentang presensi kepada guru.
+
+Sistem mengambil/mensinkronkan data dari database untuk memastikan presensi sesuai data master terbaru.  
+
+Admin bertugas mempersiapkan data.
+
+Guru bertugas menggunakan sistem untuk melakukan presensi.
+
+Database menyimpan seluruh data dan berperan penting dalam sinkronisasi data ke sistem presensi.
+
+
+
+## Kesimpulan  
+Diagram flowchart ini memberikan gambaran jelas bagaimana sistem presensi berfungsi dan langkah-langkah yang harus diambil oleh guru untuk mencatat kehadiran siswa. Penggunaan flowchart seperti ini membantu dalam memahami proses secara keseluruhan serta memudahkan pengembangan sistem lebih lanjut.  
