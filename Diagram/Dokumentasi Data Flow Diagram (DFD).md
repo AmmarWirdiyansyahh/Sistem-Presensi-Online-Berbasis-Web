@@ -5,8 +5,8 @@ https://github.com/AmmarWirdiyansyahh/Sistem-Presensi-Online-Berbasis-Web/blob/m
 
 # Entitas Eksternal
 
-1. **Admin**:
-2. **Guru**:
+1. **Admin**
+2. **Guru**
 
 # Proses
 
