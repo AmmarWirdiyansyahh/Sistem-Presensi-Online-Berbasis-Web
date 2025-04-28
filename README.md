@@ -1,3 +1,25 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/>
+</p>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00D1FF&center=true&width=600&lines=Sistem+Presensi+Online+Berbasis+Web;Real-time+Attendance+Tracking;Built+for+Semparuk+High+School;Microservices+Architecture" alt="Typing SVG" />
+  </a>
+</div>
+
+<h2 align="center">
+  Welcome to the Project 🎉
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h2>
+
+<p align="center">
+  🚀 <strong>Real-Time Attendance System</strong> for schools <br/>
+  🏫 Developed for <strong>Semparuk High School</strong> <br/>
+  💻 Microservices based scalable architecture
+</p>
+
+---
 
 # Sistem Presensi Online Berbasis Web
 
