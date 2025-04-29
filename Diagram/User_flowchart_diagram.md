@@ -18,9 +18,8 @@ https://github.com/AmmarWirdiyansyahh/Sistem-Presensi-Online-Berbasis-Web/blob/m
 
 4. **Apakah Siswa Hadir?**  
    - Pada tahap ini, guru akan presensi satu persatu, apakah siswa yang bersangkutan hadir atau tidak.  
-   - Jika **tidak**, guru memiliki dua opsi:  
-     - **Sakit/Izin**: Jika siswa tidak hadir karena sakit atau izin, guru mencatat alasan ketidakhadiran.  
-     - **Alpa**: Jika siswa tidak hadir tanpa alasan, guru menandai siswa sebagai alpa.  
+   - Jika **ya**, guru akan menekan tombol hadir pada siswa tersebut.
+   - Jika **tidak**, guru akan memberikan presensi sesuai dengan keterangan siswa yang bersangkutan (sakit/izin/alpa).
 
 5. **Presensikan Sesuai Keterangan**:  
    - Guru mencatat status kehadiran siswa berdasarkan informasi yang diberikan.  
